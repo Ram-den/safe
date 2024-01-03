@@ -1,0 +1,26 @@
+{
+    "name": "Kaitlyn Wilson",
+    "age": 37,
+    "address": {
+        "street": "Jesse Tunnel",
+        "city": "Owenston",
+        "state": "Alaska",
+        "zip": "88912"
+    },
+    "contact": {
+        "phone": "9515871966",
+        "servicePhone": "800999210"
+    },
+    "birthday": "1988-31-03",
+    "ip": "149.68.72.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Wall official share ahead law political unit. Of father my carry after draw much. Nation pressure might process.\nDebate top price skin whatever. Support myself between morning debate.",
+        "bio": "Rock chair customer. It ten sometimes more name. All research turn specific.\nFormer person fish but speak white. Tonight share require create world again discover individual."
+    },
+    "apiKey": "2840734a62a5bb34f7f93e3b41b1f84b373fd7f505e24b5214dc5373e0299240",
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
