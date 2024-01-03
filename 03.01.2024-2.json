@@ -1,0 +1,26 @@
+{
+    "name": "Christine Wilkerson DDS",
+    "age": 99,
+    "address": {
+        "street": "Mcdonald Parkways",
+        "city": "Fordton",
+        "state": "Massachusetts",
+        "zip": "23727"
+    },
+    "contact": {
+        "phone": "786-866-5360x6540",
+        "servicePhone": "800515409"
+    },
+    "birthday": "1926-01-11",
+    "ip": "30.90.164.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow it mission chance. Professional couple democratic reflect. Business record green late fight cut chair. Difference call first customer successful relate.",
+        "bio": "Medical either plant size benefit nice consumer. Boy think particular here pattern. Machine perform live without dinner scientist."
+    },
+    "apiKey": "b25b70ed653146df09919f0d95929145f37ed08a6079d1f1127b7ecd47e8d42e",
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
