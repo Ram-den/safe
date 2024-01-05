@@ -1,0 +1,26 @@
+{
+    "name": "Angela Adams",
+    "age": 112,
+    "address": {
+        "street": "Tammy Views",
+        "city": "Port Christine",
+        "state": "North Dakota",
+        "zip": "24195"
+    },
+    "contact": {
+        "phone": "(949)842-4913x528",
+        "servicePhone": "800952487"
+    },
+    "birthday": "1913-07-07",
+    "ip": "89.248.118.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly order have miss sign. Media mind strategy finally perform gas ok. Itself available whether challenge trouble occur.",
+        "bio": "Bad start education right great. Whole ask left member see much trip. Practice future knowledge machine official face.\nTable serve inside central leg. Unit drug forget song general."
+    },
+    "apiKey": "40fc967e8462477320788ac48da5c6cba4d041c5e37ddc32205e6a3dfa5ff291",
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
