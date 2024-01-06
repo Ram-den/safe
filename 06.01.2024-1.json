@@ -1,0 +1,26 @@
+{
+    "name": "Chloe Contreras",
+    "age": 1,
+    "address": {
+        "street": "Cameron Villages",
+        "city": "North Maryview",
+        "state": "Connecticut",
+        "zip": "75117"
+    },
+    "contact": {
+        "phone": "398-928-0868",
+        "servicePhone": "800850156"
+    },
+    "birthday": "2024-21-09",
+    "ip": "5.222.155.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Career born mouth coach sing number watch. Probably drive try effort walk institution pull.",
+        "bio": "View across computer cold energy tax could. Answer product fear daughter pick series six four.\nPlayer single on thought when number. Talk newspaper pass stand win letter."
+    },
+    "apiKey": "1dc2cf653f6b0f95a2efb15d316c0124e3780cab599f7f8ffa0a58ae94e8a943",
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
