@@ -1,0 +1,26 @@
+{
+    "name": "Eric Oconnell",
+    "age": 61,
+    "address": {
+        "street": "Olsen Forge",
+        "city": "Ramirezfort",
+        "state": "Minnesota",
+        "zip": "38880"
+    },
+    "contact": {
+        "phone": "(745)852-5921x67603",
+        "servicePhone": "800500902"
+    },
+    "birthday": "1964-17-04",
+    "ip": "196.142.6.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer position car manager. Beyond use just hope plan election.\nOld son total in kitchen other operation. Huge trip three wall. Special reason local process community character soon.",
+        "bio": "Over product old visit rate. Head strong impact free that. Source likely range heavy much.\nPass structure tell camera truth. Mrs develop friend according."
+    },
+    "apiKey": "83152c76f15ba453339eef48e7e76e45b82895e6be902c239dd239960f21680d",
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
