@@ -1,0 +1,26 @@
+{
+    "name": "Joseph Tanner",
+    "age": 24,
+    "address": {
+        "street": "Douglas Drive",
+        "city": "Wagnerbury",
+        "state": "Maine",
+        "zip": "85582"
+    },
+    "contact": {
+        "phone": "648-560-7189",
+        "servicePhone": "800827487"
+    },
+    "birthday": "2001-14-04",
+    "ip": "110.78.246.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Option page challenge short child how. Market tax early that. Drive throw such picture stand institution.",
+        "bio": "Whether son right age note bar. Leg debate letter manage clearly those nothing. International other somebody especially sell ahead.\nGrow quickly as least south avoid choose."
+    },
+    "apiKey": "bb6aafb388beb6386fd7a5c33283ddaaefd628419bf7ed96d94f26a6d67fba37",
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
