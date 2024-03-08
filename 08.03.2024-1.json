@@ -1,0 +1,26 @@
+{
+    "name": "Catherine Walker",
+    "age": 91,
+    "address": {
+        "street": "Donald Corners",
+        "city": "Chandlershire",
+        "state": "Hawaii",
+        "zip": "77667"
+    },
+    "contact": {
+        "phone": "001-709-283-1503x3993",
+        "servicePhone": "800009797"
+    },
+    "birthday": "1934-07-05",
+    "ip": "204.10.153.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity front piece music. Air mouth moment customer about condition individual. Rest firm marriage interview.",
+        "bio": "According operation detail parent. Rise center not though mother truth quality.\nHuge standard store let knowledge. Dark then amount rest read head. Though edge camera wall trade little."
+    },
+    "apiKey": "3a33ac3c4e1dc6d8ba1f765a0c4fb0f002fd0840c06726b6fce84fad2b1a0c40",
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
