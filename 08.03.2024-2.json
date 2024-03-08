@@ -1,0 +1,26 @@
+{
+    "name": "Jon Davis",
+    "age": 87,
+    "address": {
+        "street": "Jeffrey Camp",
+        "city": "Mooneyside",
+        "state": "Oregon",
+        "zip": "15531"
+    },
+    "contact": {
+        "phone": "(238)950-5094",
+        "servicePhone": "800093090"
+    },
+    "birthday": "1938-09-07",
+    "ip": "9.27.152.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience peace far ever worker idea. Reach write only hear practice it leave. Woman leg from bag trouble.",
+        "bio": "Lay last entire listen entire role budget. Pattern society technology paper if.\nCertain dinner citizen base. Keep ready close."
+    },
+    "apiKey": "7e7d59e23fd303c12e8ef6911d26cd6c889c9580096a80066b94c65dd0598c0d",
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
