@@ -1,0 +1,26 @@
+{
+    "name": "Brianna Turner",
+    "age": 41,
+    "address": {
+        "street": "Riley Grove",
+        "city": "New Erik",
+        "state": "Idaho",
+        "zip": "00946"
+    },
+    "contact": {
+        "phone": "275.316.8078x3190",
+        "servicePhone": "800577123"
+    },
+    "birthday": "1984-13-03",
+    "ip": "69.91.187.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Science however song window together around.\nReceive floor these. Real positive improve and.",
+        "bio": "Sea particularly than apply four drop commercial. Sometimes nothing contain way. Issue benefit strong us.\nValue want federal work. Hour material offer."
+    },
+    "apiKey": "43b70dd7a1ec104cb43c9d8824e92d5174e6ae2c14e99ce284cf563522141b34",
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
