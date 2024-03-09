@@ -1,0 +1,26 @@
+{
+    "name": "Kenneth Hall",
+    "age": 83,
+    "address": {
+        "street": "Sosa Falls",
+        "city": "Evanmouth",
+        "state": "Montana",
+        "zip": "29204"
+    },
+    "contact": {
+        "phone": "(337)918-9366x53056",
+        "servicePhone": "800637862"
+    },
+    "birthday": "1942-29-03",
+    "ip": "176.139.217.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Million least yeah after in. Radio cultural explain grow.\nSize professor begin yet stage can simple movie. Dark rest myself service his voice everybody. Maintain sort real. Occur hard site.",
+        "bio": "Entire call also all. Thought sea country interesting specific task. Ground author whole discuss off.\nOnce force maybe technology quality. Surface cause role price."
+    },
+    "apiKey": "c0988910ca7ff3b0093d8234b70e65a5f1f8533b5cbd4a29cb26f01472a8877d",
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
