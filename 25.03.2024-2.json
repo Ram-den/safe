@@ -1,0 +1,26 @@
+{
+    "name": "Angel Anderson",
+    "age": 91,
+    "address": {
+        "street": "Joel Islands",
+        "city": "Williamsshire",
+        "state": "North Carolina",
+        "zip": "27463"
+    },
+    "contact": {
+        "phone": "401.681.5282",
+        "servicePhone": "800915881"
+    },
+    "birthday": "1934-15-04",
+    "ip": "134.181.74.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye range mean pressure discover behavior world. Affect reach past picture. Capital prepare goal.",
+        "bio": "Civil analysis the control. Mean situation meeting.\nFront cell dark coach front himself total. Student home hope article compare have. None sense line."
+    },
+    "apiKey": "a45fe7740b6ccaddb6eb4ba8d6b1ea5031c003b18446ecc0a0e4d8bee7a97e05",
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
