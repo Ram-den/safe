@@ -1,0 +1,26 @@
+{
+    "name": "Peter Hoffman",
+    "age": 27,
+    "address": {
+        "street": "Jones Forges",
+        "city": "New Catherine",
+        "state": "Minnesota",
+        "zip": "86284"
+    },
+    "contact": {
+        "phone": "+1-712-799-5442x8747",
+        "servicePhone": "800345764"
+    },
+    "birthday": "1998-21-06",
+    "ip": "155.135.66.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Agreement watch market these. Eat would company technology minute.\nRemain public may glass adult force item take. Edge democratic take stock stage force pattern. Treatment drug few eat put.",
+        "bio": "Performance main away century sport senior huge. Girl strong human analysis top sense art.\nFloor really build response cost. Federal represent dream dream money. Usually public piece seem."
+    },
+    "apiKey": "6cf60c60de0b97ea6d39f7d919802afd465743334dbb4e651560b42f0265cb1f",
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
