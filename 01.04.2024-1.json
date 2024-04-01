@@ -1,0 +1,26 @@
+{
+    "name": "Sharon Johnson",
+    "age": 65,
+    "address": {
+        "street": "Cole Green",
+        "city": "East Deniseland",
+        "state": "Alabama",
+        "zip": "23974"
+    },
+    "contact": {
+        "phone": "691.722.5246",
+        "servicePhone": "800586171"
+    },
+    "birthday": "1960-22-01",
+    "ip": "203.233.105.140",
+    "foo": "bar",
+    "profile": {
+        "about": "According down audience before increase either better.\nMedia activity herself set. Structure they color with blue little meet. City level yourself probably agent.",
+        "bio": "Test democratic myself can teach development according. Live democratic leg remain during. Same interesting ask.\nCase son believe field. Onto reduce machine happy."
+    },
+    "apiKey": "de542b336a23b64c00ad724210b2d7b93923bd437c57194f2a8037ca32cc0e4f",
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
