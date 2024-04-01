@@ -1,0 +1,26 @@
+{
+    "name": "David Hart",
+    "age": 37,
+    "address": {
+        "street": "Tina Meadows",
+        "city": "West Aaron",
+        "state": "Kansas",
+        "zip": "15456"
+    },
+    "contact": {
+        "phone": "577-459-3562x18783",
+        "servicePhone": "800961867"
+    },
+    "birthday": "1988-28-01",
+    "ip": "110.205.4.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat may however. Something indicate firm indeed west want fast. Also report necessary treatment seek box. Gun popular early firm provide.",
+        "bio": "Probably should person early lose other. Summer morning decision value strong door partner rock. Yourself dog upon himself blood him effect."
+    },
+    "apiKey": "3a5fa8bc9c1b394d3ea03d43746c280655bda35623bef0fb646bd5b3ae4fc051",
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
