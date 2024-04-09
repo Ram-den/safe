@@ -1,0 +1,26 @@
+{
+    "name": "April Barnett",
+    "age": 49,
+    "address": {
+        "street": "Larry Rue",
+        "city": "Christyland",
+        "state": "Pennsylvania",
+        "zip": "69520"
+    },
+    "contact": {
+        "phone": "001-806-236-1725x40029",
+        "servicePhone": "800227547"
+    },
+    "birthday": "1976-22-08",
+    "ip": "120.212.202.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority dog condition six research road choose. Reality before majority effort myself carry yourself be. Unit condition throw full mention economic.",
+        "bio": "Reach current night among I condition it. Every believe him wish wait.\nContinue follow on hope good with.\nWhole place keep outside any. Suddenly human image economy theory process establish put."
+    },
+    "apiKey": "e7d034ea31fd164d0d73bd6f110e600ccf7fb8104897c2fd478476aea9f06d88",
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
