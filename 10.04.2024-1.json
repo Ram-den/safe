@@ -1,0 +1,26 @@
+{
+    "name": "Thomas Johnson",
+    "age": 9,
+    "address": {
+        "street": "Judy Manor",
+        "city": "West Reneeside",
+        "state": "Idaho",
+        "zip": "81686"
+    },
+    "contact": {
+        "phone": "001-566-341-0503x6718",
+        "servicePhone": "800323349"
+    },
+    "birthday": "2016-21-12",
+    "ip": "135.194.95.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing agreement not always life half public. Main trip maybe leave watch picture south.\nResponse beat president. Nice street couple could.",
+        "bio": "Practice prepare save girl door. Industry such source final simply. Security will stage same build."
+    },
+    "apiKey": "5499579309c6dddd1a88ed52a1760895a3822988957f212ab3f6d501748875b8",
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
