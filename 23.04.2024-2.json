@@ -1,0 +1,26 @@
+{
+    "name": "Diane Garcia",
+    "age": 31,
+    "address": {
+        "street": "Russell River",
+        "city": "Lake Ruth",
+        "state": "California",
+        "zip": "39963"
+    },
+    "contact": {
+        "phone": "871-703-6630x85662",
+        "servicePhone": "800558800"
+    },
+    "birthday": "1994-24-04",
+    "ip": "82.242.93.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Some those there city wrong those staff. Despite customer cost unit call home stay.\nImportant ask and food.",
+        "bio": "Whole focus together. Nearly major dream here.\nCampaign number simple.\nNever reveal off subject budget name case. Amount main effect would."
+    },
+    "apiKey": "96094012d22b0a1260af6776b4f705ec78426674ee8d178ac280e9ab83365289",
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
