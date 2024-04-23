@@ -1,0 +1,26 @@
+{
+    "name": "Thomas Maxwell",
+    "age": 104,
+    "address": {
+        "street": "Ann Mountains",
+        "city": "Kristinaburgh",
+        "state": "Oklahoma",
+        "zip": "92585"
+    },
+    "contact": {
+        "phone": "975.418.6526x8775",
+        "servicePhone": "800880847"
+    },
+    "birthday": "1921-19-08",
+    "ip": "147.174.12.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Film food rate production. Child it successful court. Action appear task nothing follow red.\nBook ahead party among pretty go. Performance authority party keep. City card another force term.",
+        "bio": "Executive heavy dream indicate it. Drive not organization some power open."
+    },
+    "apiKey": "9973d9eabcbbd3fc02b4b0a868ada44c3d65a52e17adc17b12d0ae1adf1d8fd7",
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
