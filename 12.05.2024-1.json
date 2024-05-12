@@ -1,0 +1,26 @@
+{
+    "name": "Ryan Banks",
+    "age": 92,
+    "address": {
+        "street": "Baker Port",
+        "city": "Jenniferhaven",
+        "state": "Nebraska",
+        "zip": "92992"
+    },
+    "contact": {
+        "phone": "893-723-1127x233",
+        "servicePhone": "800520091"
+    },
+    "birthday": "1933-31-01",
+    "ip": "96.49.220.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting player exactly keep inside. Base minute care walk race data drug. So marriage direction dinner office. Collection focus country bad yard prevent.",
+        "bio": "First then lot manage describe media listen end. See record defense environmental term rise reason.\nLand himself three. Investment western speak example space him chance."
+    },
+    "apiKey": "6217f99f5ccb0f20d2a0ca20a7741b66fdca0576aca92dfea0e77d66ead84353",
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
