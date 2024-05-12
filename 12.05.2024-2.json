@@ -1,0 +1,26 @@
+{
+    "name": "Jonathan Lin",
+    "age": 89,
+    "address": {
+        "street": "Cabrera Meadow",
+        "city": "Lindseyberg",
+        "state": "Mississippi",
+        "zip": "81198"
+    },
+    "contact": {
+        "phone": "544.296.8325",
+        "servicePhone": "800295725"
+    },
+    "birthday": "1936-03-06",
+    "ip": "29.171.247.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Appear visit performance sound already. Will become various in draw.\nStand both foot indeed today. Son good matter we.\nWeek yes door perhaps down million.",
+        "bio": "Cover kitchen into now. Seek whether should we. Step if activity media.\nOwner must fear free also want cover appear. Resource capital summer skin find policy send herself. Idea of wonder among."
+    },
+    "apiKey": "e4b53ec56205068bc4285e0ac8cbc323d13723f8339bedc1e88b56fa3de61b83",
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
