@@ -1,0 +1,26 @@
+{
+    "name": "Derek Mendoza",
+    "age": 100,
+    "address": {
+        "street": "John Lake",
+        "city": "Lake Sandra",
+        "state": "Nebraska",
+        "zip": "47920"
+    },
+    "contact": {
+        "phone": "884-221-4093x703",
+        "servicePhone": "800702452"
+    },
+    "birthday": "1925-20-06",
+    "ip": "190.239.6.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Live though green court material place market. Case religious federal. Memory space vote become price sell. Single example guy hit husband.",
+        "bio": "Benefit state however through officer shoulder. Green research send her. Old about street door fall.\nWriter tell either thank."
+    },
+    "apiKey": "d4f6c9b032fb470d1bce0225e72cd8ee4b094ea2a94391979e9b04b2f913c448",
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
