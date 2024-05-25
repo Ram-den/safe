@@ -1,0 +1,26 @@
+{
+    "name": "Michael Jordan",
+    "age": 37,
+    "address": {
+        "street": "Brewer Valley",
+        "city": "Ramirezside",
+        "state": "Connecticut",
+        "zip": "39766"
+    },
+    "contact": {
+        "phone": "+1-341-691-4401x1853",
+        "servicePhone": "800228199"
+    },
+    "birthday": "1988-12-02",
+    "ip": "62.79.14.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Role box relate past risk stock area. Late clear Democrat drug culture in data.",
+        "bio": "Produce rather on none high follow.\nMusic level just special. That half certain officer. Drug buy place firm city sure pretty.\nTime newspaper degree real director election mention."
+    },
+    "apiKey": "a577902a0d120f46478391421f1ea47f72572aebc59aff854a7a3f9d83d19baa",
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
