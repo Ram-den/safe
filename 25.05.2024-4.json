@@ -1,0 +1,26 @@
+{
+    "name": "Michael Martinez",
+    "age": 90,
+    "address": {
+        "street": "Christopher Point",
+        "city": "Maryhaven",
+        "state": "Maine",
+        "zip": "70103"
+    },
+    "contact": {
+        "phone": "+1-440-899-8890x100",
+        "servicePhone": "800306081"
+    },
+    "birthday": "1935-01-06",
+    "ip": "138.105.4.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern off house leg. Night century serve student oil all argue. Natural I yet little.\nFinal college voice call red new senior clear.\nActivity see especially listen.",
+        "bio": "Structure loss law energy firm safe he. Case article responsibility cause simple something Congress.\nIdentify song trade high pick least recent. Can impact lawyer official rule hand near."
+    },
+    "apiKey": "da570e591a9889ce119ac8b9255893827848ca39fe52bee3e066138903cae8b0",
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
