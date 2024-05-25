@@ -1,0 +1,26 @@
+{
+    "name": "Jessica Barr",
+    "age": 58,
+    "address": {
+        "street": "Hunt Burg",
+        "city": "South Johnmouth",
+        "state": "Tennessee",
+        "zip": "45253"
+    },
+    "contact": {
+        "phone": "424.494.0188",
+        "servicePhone": "800475930"
+    },
+    "birthday": "1967-06-06",
+    "ip": "162.116.201.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly indicate quickly student method. Authority operation remember wait town. Likely into suddenly whom civil.",
+        "bio": "Law represent risk investment get six on. Find read fine successful instead major song. Follow account road serious cost."
+    },
+    "apiKey": "05e60e9756211dcf27ec443c840ebf9d38d914e55b65fded1001a54e6d757a5b",
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
