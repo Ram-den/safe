@@ -1,0 +1,26 @@
+{
+    "name": "Judith Brown",
+    "age": 44,
+    "address": {
+        "street": "Kim Circles",
+        "city": "New Julietown",
+        "state": "Connecticut",
+        "zip": "32401"
+    },
+    "contact": {
+        "phone": "436-207-5936x5891",
+        "servicePhone": "800033109"
+    },
+    "birthday": "1981-06-04",
+    "ip": "104.93.66.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Above play center best clear. Raise board happy in season weight other.\nItem college meet happen western can between. Blue culture husband produce meet plan Democrat. Service team my.",
+        "bio": "Raise because future civil trouble too. Exactly game Mrs hospital. Enough owner score region continue subject three.\nWeek hold situation. Above near box article. Support body strong group."
+    },
+    "apiKey": "2438dfd2fe48d4b019a7e8bcdd93607191b3d1272dfb509125d6bcba7030ab8d",
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
