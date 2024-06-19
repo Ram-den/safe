@@ -1,0 +1,26 @@
+{
+    "name": "Carolyn Jarvis",
+    "age": 39,
+    "address": {
+        "street": "Gonzales Heights",
+        "city": "Trevorton",
+        "state": "Utah",
+        "zip": "80662"
+    },
+    "contact": {
+        "phone": "299-444-7307",
+        "servicePhone": "800480338"
+    },
+    "birthday": "1986-02-04",
+    "ip": "204.156.214.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Really teacher establish national culture test the. Shake what factor. Mission the defense assume.\nWish improve story character mother. Degree share leg affect party room deep.",
+        "bio": "Stage maybe reality least heart officer man. Identify history increase relate even.\nMuch shake teacher one mention real. Ok five score moment special with general.\nRoad away war. Research choice son."
+    },
+    "apiKey": "fad7c5492c375eb27a425b48ede903df1637628c2fcdb7b07f0d40d87e8ff731",
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
