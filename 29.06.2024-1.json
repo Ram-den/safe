@@ -1,0 +1,26 @@
+{
+    "name": "Barbara Jacobs",
+    "age": 33,
+    "address": {
+        "street": "Peterson Bypass",
+        "city": "North Wesley",
+        "state": "Oklahoma",
+        "zip": "04398"
+    },
+    "contact": {
+        "phone": "(569)891-4882",
+        "servicePhone": "800633547"
+    },
+    "birthday": "1992-03-04",
+    "ip": "91.161.22.18",
+    "foo": "bar",
+    "profile": {
+        "about": "His teacher model north fall benefit. Light road meet significant. Thousand future garden blood. Sport dog smile.\nEast food page few gun. Day each myself individual and think service.",
+        "bio": "Statement all him alone. Theory raise reflect.\nBudget maybe receive. Situation source begin without suffer race expect citizen."
+    },
+    "apiKey": "aaa4796603b7f15d3db48cef78c14acc7c30f9bb65700af01927fde6da587c0a",
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
