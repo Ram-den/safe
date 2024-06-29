@@ -1,0 +1,26 @@
+{
+    "name": "Leah Martin",
+    "age": 94,
+    "address": {
+        "street": "Bethany Wall",
+        "city": "West Holly",
+        "state": "Arkansas",
+        "zip": "12041"
+    },
+    "contact": {
+        "phone": "781-577-9761",
+        "servicePhone": "800659551"
+    },
+    "birthday": "1931-01-04",
+    "ip": "69.24.8.230",
+    "foo": "bar",
+    "profile": {
+        "about": "No friend there population begin. May crime hundred yard teacher challenge plant. Hot knowledge hot strategy cause.",
+        "bio": "Son factor challenge policy baby. International structure skin attention try clearly piece manager. Into worker represent prevent practice down."
+    },
+    "apiKey": "1122a9d9622ee84c744ea42678abfa5bd85a69ab7ceae63d56334666d97427c6",
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
