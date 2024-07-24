@@ -1,0 +1,26 @@
+{
+    "name": "Stephanie Jones",
+    "age": 63,
+    "address": {
+        "street": "Anna Cliff",
+        "city": "Jamieview",
+        "state": "North Dakota",
+        "zip": "32469"
+    },
+    "contact": {
+        "phone": "(508)372-5708",
+        "servicePhone": "800084132"
+    },
+    "birthday": "1962-24-11",
+    "ip": "75.163.214.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit how issue wait president education. Evidence future trade law federal indicate.\nSpeech our must kitchen significant later degree. Treat watch least her sell.",
+        "bio": "School outside glass wife tree. Specific want month. Former value into vote."
+    },
+    "apiKey": "49d2161ba660d4cfc7dd76c5a648dde90c7f3c611ee598e6a16eedea9cf908dc",
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
