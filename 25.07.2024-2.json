@@ -1,0 +1,26 @@
+{
+    "name": "James Smith",
+    "age": 47,
+    "address": {
+        "street": "Troy Points",
+        "city": "Kimberlyside",
+        "state": "Washington",
+        "zip": "64383"
+    },
+    "contact": {
+        "phone": "262-741-4225",
+        "servicePhone": "800910632"
+    },
+    "birthday": "1978-01-01",
+    "ip": "14.57.163.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept agree feeling current. Wrong high step once make. Name force million wall note travel.\nEconomy method home take yard suggest tonight. Play debate cultural.",
+        "bio": "Charge debate forward significant. Heavy just wonder tonight room.\nThrow since guess address cover. Manager church scene deep."
+    },
+    "apiKey": "6456f23be4b9ad88b77b9ea60495c500d5a3a482f72ccebc999086e289bd724d",
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
