@@ -1,0 +1,26 @@
+{
+    "name": "Rebecca Shannon",
+    "age": 3,
+    "address": {
+        "street": "Robert Union",
+        "city": "Lake Sierramouth",
+        "state": "Delaware",
+        "zip": "76447"
+    },
+    "contact": {
+        "phone": "001-553-872-1882",
+        "servicePhone": "800703475"
+    },
+    "birthday": "2022-29-05",
+    "ip": "222.101.166.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Analysis positive money within best fall according. Six study born seek west.",
+        "bio": "Place control executive certainly someone life. Once green thought believe shake question Mr.\nActivity notice expert news hour. Hour general onto buy. Mission everybody space early late."
+    },
+    "apiKey": "de020a81a790540b1bec8b24134b71c07de33290ea6a904567e84999be2b0698",
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
