@@ -1,0 +1,26 @@
+{
+    "name": "Tina Perry",
+    "age": 10,
+    "address": {
+        "street": "Robert Harbor",
+        "city": "Calebside",
+        "state": "North Carolina",
+        "zip": "66974"
+    },
+    "contact": {
+        "phone": "(630)825-4970x07885",
+        "servicePhone": "800646507"
+    },
+    "birthday": "2015-13-11",
+    "ip": "73.229.252.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair politics during forward information together. Here case kind research nice painting international.\nBeautiful both just. The home coach middle heart.",
+        "bio": "Fast party know employee. Different meeting second expect for.\nPositive talk modern administration. Such expert speech report seat blood."
+    },
+    "apiKey": "a4b5566d89b7f16a1a7b8b3ebdf85196b97b5c7e4e7c9154d4ae0aad5d5c14fa",
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
