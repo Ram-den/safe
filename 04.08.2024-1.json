@@ -1,0 +1,26 @@
+{
+    "name": "Donald Howard",
+    "age": 84,
+    "address": {
+        "street": "Arellano Ville",
+        "city": "South Miranda",
+        "state": "South Dakota",
+        "zip": "71969"
+    },
+    "contact": {
+        "phone": "(894)319-3532",
+        "servicePhone": "800663648"
+    },
+    "birthday": "1941-04-10",
+    "ip": "132.110.102.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Student see development nearly stage. If until door its pressure church.\nAsk note it turn start. Detail majority buy important. Field under college hour decide water. Him trade skill address.",
+        "bio": "Develop actually compare turn. Nothing individual free modern message add.\nEight national while road. Visit else order drive amount road item."
+    },
+    "apiKey": "95b3d831ad7de53e2563245ae52c29d5738f43d7d24a9af710754fae7990bc9a",
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
