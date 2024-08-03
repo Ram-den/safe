@@ -1,0 +1,26 @@
+{
+    "name": "Anthony Gilmore",
+    "age": 77,
+    "address": {
+        "street": "Robert Field",
+        "city": "Murphytown",
+        "state": "North Dakota",
+        "zip": "80463"
+    },
+    "contact": {
+        "phone": "001-806-966-8476",
+        "servicePhone": "800979481"
+    },
+    "birthday": "1948-02-08",
+    "ip": "91.88.64.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer allow staff police add budget unit sport. Adult Mr end environment that. Field together very author. By painting leg whatever.\nFace hand range trade seven. Bank history win.",
+        "bio": "I when politics. Tonight dinner use beat.\nPossible idea far but eat sense clear. Whom medical down could high month feel. Form various join once everyone."
+    },
+    "apiKey": "b03abc98811e065519d8711b883fa634f086ebff2e76f8e09555a5be9e7f5dae",
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
