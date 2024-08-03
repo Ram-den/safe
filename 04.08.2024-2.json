@@ -1,0 +1,26 @@
+{
+    "name": "William Romero",
+    "age": 102,
+    "address": {
+        "street": "Caleb View",
+        "city": "East William",
+        "state": "Illinois",
+        "zip": "66247"
+    },
+    "contact": {
+        "phone": "001-806-739-6314",
+        "servicePhone": "800032833"
+    },
+    "birthday": "1923-15-10",
+    "ip": "118.254.124.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder age stop day suffer pattern about. Still few month politics street exactly oil operation.\nDegree than move girl technology similar baby understand. Family ball threat smile college.",
+        "bio": "Accept institution growth rule toward long. Phone for American ask hope try."
+    },
+    "apiKey": "f007062d89bc7b3b3fae5e5ca750779cfa8092edccd21565b565eacc80baac58",
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
