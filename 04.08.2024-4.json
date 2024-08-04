@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Nelson",
+    "age": 13,
+    "address": {
+        "street": "Jones Lakes",
+        "city": "Michaelstad",
+        "state": "Vermont",
+        "zip": "05274"
+    },
+    "contact": {
+        "phone": "(704)298-8960x673",
+        "servicePhone": "800944221"
+    },
+    "birthday": "2012-13-10",
+    "ip": "131.224.221.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Pay nearly add. Identify right beat condition. Nearly many anyone two over about actually.",
+        "bio": "Only wonder glass spend level stage. Attention test carry recent population production imagine safe.\nPurpose with remember style become pick. Green us quite hundred nothing economic."
+    },
+    "apiKey": "6f469e6a0ed504d7120369a084ff3bfa2300a3c08b5c859fcf3df5b821140742",
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
