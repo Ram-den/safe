@@ -1,0 +1,26 @@
+{
+    "name": "Wayne Little",
+    "age": 30,
+    "address": {
+        "street": "Harrison Prairie",
+        "city": "Sherristad",
+        "state": "Virginia",
+        "zip": "77602"
+    },
+    "contact": {
+        "phone": "520.956.9931",
+        "servicePhone": "800342205"
+    },
+    "birthday": "1995-04-08",
+    "ip": "10.32.15.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Want guess she discover morning finally.\nRich else these quite piece of old.\nNorth ball reach once blood car above. Number involve billion suffer spring animal purpose out.",
+        "bio": "Business turn career national person who.\nDevelop middle area suddenly risk mind. Score factor dinner page student. Room wind large area last.\nSpend work court media. Others point who."
+    },
+    "apiKey": "8185660d842cd2ac5b202e4458d7cf778fb23ae323e147f28db8b576481c3580",
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
