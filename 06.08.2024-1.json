@@ -1,0 +1,26 @@
+{
+    "name": "Stephen Gonzalez",
+    "age": 21,
+    "address": {
+        "street": "Joel Tunnel",
+        "city": "Richmondmouth",
+        "state": "South Carolina",
+        "zip": "74770"
+    },
+    "contact": {
+        "phone": "001-914-488-6084x34177",
+        "servicePhone": "800916331"
+    },
+    "birthday": "2004-13-09",
+    "ip": "202.114.176.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Those most indicate. Bed process we save same her model. Effect over tend we bit whether.",
+        "bio": "Source usually change lay old. Think than rich. Quality make risk year.\nDebate the film control. Per draw direction recognize such including.\nConsumer economic wait soon enter within point."
+    },
+    "apiKey": "0561775695d7bd0f028355066e447c0634efffb22c9836180763763d4c7a976a",
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
