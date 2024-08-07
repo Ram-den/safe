@@ -1,0 +1,26 @@
+{
+    "name": "David Johnson",
+    "age": 76,
+    "address": {
+        "street": "Vasquez Route",
+        "city": "New David",
+        "state": "Delaware",
+        "zip": "53308"
+    },
+    "contact": {
+        "phone": "364-900-5183x74871",
+        "servicePhone": "800964190"
+    },
+    "birthday": "1949-23-05",
+    "ip": "10.196.134.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Us indicate your budget second. Article way plan require success little new. North pattern sure our garden.\nTeam eight two again health ball imagine. Vote radio note he off help final.",
+        "bio": "Office audience heart draw leave. Town various everything check involve consumer agree.\nNor organization worker force college. Message board listen himself answer old class gas."
+    },
+    "apiKey": "594a7ef8e74bc6a5cfce61e63080e2bb3b6f0c8a5031b9a5c02fa3d984b79e1f",
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
