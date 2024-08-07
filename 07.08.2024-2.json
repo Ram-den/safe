@@ -1,0 +1,26 @@
+{
+    "name": "Lauren Long",
+    "age": 6,
+    "address": {
+        "street": "Terri Rapids",
+        "city": "Snyderbury",
+        "state": "Florida",
+        "zip": "20186"
+    },
+    "contact": {
+        "phone": "877-776-8633x659",
+        "servicePhone": "800635020"
+    },
+    "birthday": "2019-06-03",
+    "ip": "207.178.85.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Information gas agency guess various assume half. Hold technology into term black show. Buy art most bar.",
+        "bio": "Information attack marriage agent hold. Dream step worker we structure.\nBag play bad free education. Reveal statement painting cover others program. Side maintain stage feel before Democrat."
+    },
+    "apiKey": "8facf7fb1ee5cf08314eda2a298b58d51c380ca1e39ae03308aaa03c5e68d208",
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
