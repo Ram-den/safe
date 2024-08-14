@@ -1,0 +1,26 @@
+{
+    "name": "Teresa Baker",
+    "age": 15,
+    "address": {
+        "street": "Crystal Views",
+        "city": "North John",
+        "state": "Alabama",
+        "zip": "13126"
+    },
+    "contact": {
+        "phone": "589-370-3160x599",
+        "servicePhone": "800681504"
+    },
+    "birthday": "2010-03-05",
+    "ip": "142.140.190.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Site team own these hold wife. Entire change particular fly ask.\nThank security although Republican window since. Answer yet plant answer who party store. Source father try hold region century why.",
+        "bio": "Opportunity notice parent. Door give statement report state.\nMillion cover listen institution interest start we. Across best rock listen arm us change."
+    },
+    "apiKey": "47b6269de7f8ea8c1fd3d72e51d593c52be991e5dcfb6c71e7af33ccfc499924",
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
