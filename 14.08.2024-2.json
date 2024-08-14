@@ -1,0 +1,26 @@
+{
+    "name": "Sabrina Garcia",
+    "age": 8,
+    "address": {
+        "street": "Charles Groves",
+        "city": "Amandamouth",
+        "state": "Nebraska",
+        "zip": "10336"
+    },
+    "contact": {
+        "phone": "001-480-389-7972x60499",
+        "servicePhone": "800834066"
+    },
+    "birthday": "2017-30-06",
+    "ip": "124.33.246.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce cause question box. Ever special brother heavy threat.\nMonth lose build artist action. Let investment so ready federal sit leader.",
+        "bio": "Gun minute just who all.\nRegion particular defense tough remember explain work. Tough arm fall position. Chance at do significant clear environmental."
+    },
+    "apiKey": "8102f967aa3a94eeecd85c052406dd20fb4f715506bf06d7b7744a77166455e7",
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
