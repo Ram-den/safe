@@ -1,0 +1,26 @@
+{
+    "name": "Tammy Hess",
+    "age": 90,
+    "address": {
+        "street": "Peters Route",
+        "city": "Johnsonland",
+        "state": "Pennsylvania",
+        "zip": "64034"
+    },
+    "contact": {
+        "phone": "(245)476-2485x521",
+        "servicePhone": "800206960"
+    },
+    "birthday": "1935-02-12",
+    "ip": "148.178.76.80",
+    "foo": "bar",
+    "profile": {
+        "about": "None opportunity impact population according spend personal. Cut surface learn participant. Provide read sometimes those loss design near.",
+        "bio": "Contain quite career international Mr. Together half may easy. Someone per author own draw policy dark cut.\nTown real reduce remain crime election. Four camera public base president."
+    },
+    "apiKey": "0342120b8ed59f250916a636723a327d1e56cf28748d03b4f44010d1cae17dcb",
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
