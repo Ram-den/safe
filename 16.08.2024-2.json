@@ -1,0 +1,26 @@
+{
+    "name": "Joseph Carter",
+    "age": 18,
+    "address": {
+        "street": "Jacob Turnpike",
+        "city": "Williamstad",
+        "state": "California",
+        "zip": "04208"
+    },
+    "contact": {
+        "phone": "201.227.3991",
+        "servicePhone": "800083399"
+    },
+    "birthday": "2007-25-02",
+    "ip": "42.205.88.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Available reveal key operation. Hot your close unit. Agent central vote care should. Task before job rather.",
+        "bio": "Group late else everybody. Old industry as space main defense."
+    },
+    "apiKey": "123c5a93f59f3deb6dca62788be7b0e8323ef56498a43abcb6d9ae27a5023c96",
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
