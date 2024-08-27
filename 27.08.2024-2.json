@@ -1,0 +1,26 @@
+{
+    "name": "Anthony Bowman",
+    "age": 36,
+    "address": {
+        "street": "Campos Canyon",
+        "city": "Castilloshire",
+        "state": "Nevada",
+        "zip": "37712"
+    },
+    "contact": {
+        "phone": "(663)278-7580",
+        "servicePhone": "800901223"
+    },
+    "birthday": "1989-01-07",
+    "ip": "78.241.146.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible standard apply sign tough fish. Enough bring position under kid will on. Stock memory air process.\nLoss owner attack name run. Outside among question there quality approach rule church.",
+        "bio": "Room customer anything push performance identify prove. Any which design.\nProject anyone listen executive. Decide evening section tell."
+    },
+    "apiKey": "7bac856273a85372cf68035baff317a9261f14305523656e4d20987e05c6990e",
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
