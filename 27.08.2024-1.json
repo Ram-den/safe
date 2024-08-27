@@ -1,0 +1,26 @@
+{
+    "name": "Suzanne Gonzalez",
+    "age": 107,
+    "address": {
+        "street": "Potter Circle",
+        "city": "New Riley",
+        "state": "North Dakota",
+        "zip": "58764"
+    },
+    "contact": {
+        "phone": "977-313-5308",
+        "servicePhone": "800001958"
+    },
+    "birthday": "1918-06-11",
+    "ip": "82.141.39.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Case four party always must these according. Person chance different behind college. Hard sit series simple firm. Interesting open situation purpose major relate last.",
+        "bio": "People year me his produce important source perhaps. Success box sing hold environment receive.\nHear stay yes meet inside ask social."
+    },
+    "apiKey": "a2f0076cc537467427f6aeefedfe4b46286c9d0b4fc3808f70aec7dd00a06593",
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
