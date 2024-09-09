@@ -1,0 +1,26 @@
+{
+    "name": "Maureen Wood",
+    "age": 105,
+    "address": {
+        "street": "Brooke Stream",
+        "city": "Lake Mary",
+        "state": "Washington",
+        "zip": "42564"
+    },
+    "contact": {
+        "phone": "001-607-443-2092",
+        "servicePhone": "800366913"
+    },
+    "birthday": "1920-27-01",
+    "ip": "129.232.157.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen seek into industry remain seem. Reflect operation window onto put speak development.\nRule major you civil friend. Here able boy.",
+        "bio": "Kid draw someone trial significant goal kind. Take job lead realize hand realize.\nReduce think enter drop really. Cut full bank important home base yard half. Check kid whose allow."
+    },
+    "apiKey": "0c44622d40a63c2eb8344c8ac35a0e8e1a82279e4891f8d905f86079d61b72d8",
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
