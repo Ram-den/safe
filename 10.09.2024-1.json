@@ -1,0 +1,26 @@
+{
+    "name": "Travis Roberts",
+    "age": 69,
+    "address": {
+        "street": "Pamela Skyway",
+        "city": "Lake Tracy",
+        "state": "Colorado",
+        "zip": "25516"
+    },
+    "contact": {
+        "phone": "001-760-886-1340x21590",
+        "servicePhone": "800971787"
+    },
+    "birthday": "1956-19-01",
+    "ip": "199.89.252.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Different may evening very bit fly. Week require option both effort now. On than various Democrat organization sister same.",
+        "bio": "Station ask quite key tend several far. Meeting son character then. Whatever president cause. Adult shoulder audience speak."
+    },
+    "apiKey": "03acfefd8a002bcf1230985b003e207d2995ee6529ee358908519069fe28f217",
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
