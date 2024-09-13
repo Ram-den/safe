@@ -1,0 +1,26 @@
+{
+    "name": "Amber Morris",
+    "age": 27,
+    "address": {
+        "street": "Meyer Ranch",
+        "city": "South Candiceport",
+        "state": "Minnesota",
+        "zip": "48950"
+    },
+    "contact": {
+        "phone": "+1-745-209-9320",
+        "servicePhone": "800264407"
+    },
+    "birthday": "1998-15-10",
+    "ip": "50.86.25.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Better she spend. Owner peace camera interview all fast. Month quality into. Go guess season religious.\nSecurity travel draw a. Modern positive country recognize power hear. Fine prevent put.",
+        "bio": "Alone late more. Reality choice tax difference about. Buy same knowledge traditional travel smile point one.\nCountry remain however prepare. Budget set some include each."
+    },
+    "apiKey": "286b8af50af12e6a201394c15bb41a12c9ceb3c05dde3da299708e4492f51d78",
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
