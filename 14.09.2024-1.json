@@ -1,0 +1,26 @@
+{
+    "name": "Hannah Schultz",
+    "age": 16,
+    "address": {
+        "street": "Daniel Inlet",
+        "city": "Stevenland",
+        "state": "Florida",
+        "zip": "69287"
+    },
+    "contact": {
+        "phone": "001-586-766-7652x5603",
+        "servicePhone": "800627192"
+    },
+    "birthday": "2009-19-01",
+    "ip": "222.162.121.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect wall turn hospital tax. Meeting approach plan behavior let. Instead player action way the during plant.\nInstead state system new since. Face development type language such modern.",
+        "bio": "Social them gas also. Of nearly company letter.\nElection find guy special. Artist source away radio inside."
+    },
+    "apiKey": "81e5711d7f0e1397ac1a1864a8b348c59cc2e36f44736a1b48c2d116a8566b46",
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
