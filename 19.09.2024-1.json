@@ -1,0 +1,26 @@
+{
+    "name": "Natalie Cruz",
+    "age": 56,
+    "address": {
+        "street": "Susan Creek",
+        "city": "Lake Danielview",
+        "state": "Indiana",
+        "zip": "76185"
+    },
+    "contact": {
+        "phone": "663-365-5670x473",
+        "servicePhone": "800036410"
+    },
+    "birthday": "1969-15-03",
+    "ip": "141.127.84.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Individual lose well law phone action maintain. Technology avoid start stop. Hotel red meet skill.\nSouth worker sort cause. Accept alone expect hope see watch friend. Remember value our deal remain.",
+        "bio": "Floor class station hundred blood song. Other draw challenge card successful positive administration. Require family really part talk you."
+    },
+    "apiKey": "2e300f1c4745e878c2cebae0bdb257ccd54cddccbd6f4064d6f63cdc411dcd15",
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
