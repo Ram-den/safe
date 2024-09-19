@@ -1,0 +1,26 @@
+{
+    "name": "Gabrielle Rodriguez",
+    "age": 47,
+    "address": {
+        "street": "Travis Corner",
+        "city": "Bellview",
+        "state": "Pennsylvania",
+        "zip": "85434"
+    },
+    "contact": {
+        "phone": "517-731-9155",
+        "servicePhone": "800272727"
+    },
+    "birthday": "1978-15-05",
+    "ip": "22.190.232.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Five agent ground. Newspaper drop also owner less.\nPressure industry recognize model security series computer. Debate policy son so. Age cold now.",
+        "bio": "Attack we gun me hope. Song grow number stop amount already exist.\nArtist dinner morning campaign wish speak. Rate personal skill any yard better. Through black card when change hotel."
+    },
+    "apiKey": "743a4a86576bcc11ac1c19b2e1b32b085e87de9252ce89611a2180241b777453",
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
