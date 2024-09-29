@@ -1,0 +1,26 @@
+{
+    "name": "Cindy Coleman",
+    "age": 98,
+    "address": {
+        "street": "Johnny Roads",
+        "city": "Stephenfurt",
+        "state": "Delaware",
+        "zip": "45154"
+    },
+    "contact": {
+        "phone": "937-394-1392x514",
+        "servicePhone": "800021385"
+    },
+    "birthday": "1927-03-12",
+    "ip": "39.205.53.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder white discover big lose.\nResearch worker economic lead report religious people environment. Help stock raise finally season too. Foot join Republican brother think.",
+        "bio": "Not position huge evening billion check."
+    },
+    "apiKey": "4b9ad907178e7bcd990a23d31d6eb09f66ceab9fd46016e98761a68ec3fc5d7c",
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
