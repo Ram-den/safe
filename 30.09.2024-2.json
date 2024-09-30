@@ -1,0 +1,26 @@
+{
+    "name": "Kimberly Campbell",
+    "age": 81,
+    "address": {
+        "street": "Christopher Parks",
+        "city": "New Jacqueline",
+        "state": "Arkansas",
+        "zip": "44830"
+    },
+    "contact": {
+        "phone": "(652)520-8831",
+        "servicePhone": "800421880"
+    },
+    "birthday": "1944-10-02",
+    "ip": "135.164.174.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution none another here heart stop fight. Hand challenge southern month.\nWrong bag knowledge. Over best pass under buy water. Point man really skill.",
+        "bio": "Bring care true health over street. Before against risk thank smile. Back doctor small business north."
+    },
+    "apiKey": "727d1e726b28cbd416ada40cba65df6f3bc60e049ab114cefc66869c16cf06aa",
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
