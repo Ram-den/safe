@@ -1,0 +1,26 @@
+{
+    "name": "Brian Jackson",
+    "age": 71,
+    "address": {
+        "street": "Paul Pines",
+        "city": "Port Elijah",
+        "state": "Delaware",
+        "zip": "97179"
+    },
+    "contact": {
+        "phone": "+1-907-535-3730",
+        "servicePhone": "800535657"
+    },
+    "birthday": "1954-14-08",
+    "ip": "118.229.74.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Bank control which nation member beyond. Culture score prevent stand with.\nSuffer company serious owner. Affect computer impact buy soldier. Mean partner adult full peace music wrong.",
+        "bio": "Keep policy senior difference. Street ten least message.\nSeries term instead enter action tend create hit. Whether themselves TV generation. Example loss while general how it."
+    },
+    "apiKey": "0ed2f503b280fe2af32adfda709a7cbe638759602385e3fa9c1acdd64a64765a",
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
