@@ -1,0 +1,26 @@
+{
+    "name": "Felicia Walker",
+    "age": 56,
+    "address": {
+        "street": "Ortega Vista",
+        "city": "Matthewchester",
+        "state": "Alaska",
+        "zip": "59814"
+    },
+    "contact": {
+        "phone": "972.228.0159x46066",
+        "servicePhone": "800168394"
+    },
+    "birthday": "1969-20-01",
+    "ip": "223.175.220.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion relationship peace speak.\nDetail surface husband can great. Plan travel hope. New mission smile peace subject bag once. Reduce where condition fish TV onto finish.",
+        "bio": "I seven hotel billion concern area. Voice role she three.\nForward body far prepare free. Society let although center draw. Congress perhaps speech while how surface school rich."
+    },
+    "apiKey": "f9d308144eee87a3d3ad18d1ba5ad36234276ba124d4adcbb32779311e0fbd92",
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
