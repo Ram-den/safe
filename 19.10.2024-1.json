@@ -1,0 +1,26 @@
+{
+    "name": "Kristen Parker",
+    "age": 17,
+    "address": {
+        "street": "Mercedes Inlet",
+        "city": "Port Kellyview",
+        "state": "California",
+        "zip": "82895"
+    },
+    "contact": {
+        "phone": "(371)449-5149x931",
+        "servicePhone": "800662890"
+    },
+    "birthday": "2008-08-03",
+    "ip": "138.246.154.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution him thing resource threat can. Behind human commercial where recognize next.\nMedia human respond able bit important court view. Ball our a pattern raise. Nearly idea many about allow.",
+        "bio": "Usually determine long herself remember nearly author. Operation single from."
+    },
+    "apiKey": "6305e565cee4526f73d5f9799280c41635ca8d7c7b77b27e90ffe130d79fc859",
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
