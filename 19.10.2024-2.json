@@ -1,0 +1,26 @@
+{
+    "name": "Cathy Reed",
+    "age": 106,
+    "address": {
+        "street": "Emily Wall",
+        "city": "Port Nicolemouth",
+        "state": "Arkansas",
+        "zip": "93046"
+    },
+    "contact": {
+        "phone": "516.828.1487",
+        "servicePhone": "800806949"
+    },
+    "birthday": "1919-24-11",
+    "ip": "120.232.202.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Have everyone Congress another science. Owner ground executive part various bit. Friend future get common.\nGreen series focus mention. Shoulder smile others record record artist.",
+        "bio": "Break nor approach the toward specific military. Turn use idea life various chance represent easy. Side memory type site check throughout modern."
+    },
+    "apiKey": "69ee85d5d81b913b695d3a03975cb6ec2f6736f2f4d59c2d4525dadc33699b35",
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
