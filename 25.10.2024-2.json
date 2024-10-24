@@ -1,0 +1,26 @@
+{
+    "name": "Sarah Acosta",
+    "age": 68,
+    "address": {
+        "street": "Holt Orchard",
+        "city": "Port Johnport",
+        "state": "Rhode Island",
+        "zip": "67063"
+    },
+    "contact": {
+        "phone": "878-528-7873",
+        "servicePhone": "800032044"
+    },
+    "birthday": "1957-24-12",
+    "ip": "135.206.174.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory trial or leave mouth myself call. Four record stuff behavior.\nDetail picture nation quite challenge turn. Reduce star expert operation option people quite. Notice them occur feel even.",
+        "bio": "Recognize attack painting too image reduce crime. Crime kind perform rest them. Event risk billion forget seek."
+    },
+    "apiKey": "095c25a45abf6a8173cb421ee184cf4be314d663b875e5d7d2951e048c84bd4f",
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
