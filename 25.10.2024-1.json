@@ -1,0 +1,26 @@
+{
+    "name": "Mary Johnson",
+    "age": 47,
+    "address": {
+        "street": "Jerry Ranch",
+        "city": "Kellyville",
+        "state": "Wisconsin",
+        "zip": "25056"
+    },
+    "contact": {
+        "phone": "272-628-0622x512",
+        "servicePhone": "800247798"
+    },
+    "birthday": "1978-29-07",
+    "ip": "87.248.168.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Word under live next mother. Western employee seek the public figure focus. Decision field buy.",
+        "bio": "Western black Congress into. Open Congress time somebody kind have support. Artist five recognize behind when argue situation. Pay food anyone site."
+    },
+    "apiKey": "de583296a7890fcb211935cd616516a829f40dfb225da3b68146b58c5e595a60",
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
