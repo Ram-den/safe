@@ -1,0 +1,26 @@
+{
+    "name": "Jeff Baldwin",
+    "age": 6,
+    "address": {
+        "street": "Moore Way",
+        "city": "Ramirezland",
+        "state": "Virginia",
+        "zip": "93791"
+    },
+    "contact": {
+        "phone": "983-953-8044",
+        "servicePhone": "800909730"
+    },
+    "birthday": "2019-08-03",
+    "ip": "124.80.40.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Team majority especially. Laugh crime such majority.\nGuess find baby budget measure. Alone far as help less rate treatment. Analysis really interview side case seven dinner.",
+        "bio": "Serve movement former total quickly.\nBest dream to visit share respond green.\nClose couple son seem crime. Significant case follow sense."
+    },
+    "apiKey": "7e440775ae11f3fc4a6f0a39460020cddcab06572b22c1794a12ba1091341e00",
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
