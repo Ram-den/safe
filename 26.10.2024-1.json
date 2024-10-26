@@ -1,0 +1,26 @@
+{
+    "name": "Theresa Jackson",
+    "age": 51,
+    "address": {
+        "street": "Kim Viaduct",
+        "city": "New Teresatown",
+        "state": "Kentucky",
+        "zip": "91253"
+    },
+    "contact": {
+        "phone": "299.869.5531",
+        "servicePhone": "800904955"
+    },
+    "birthday": "1974-30-12",
+    "ip": "138.96.18.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold mother skill way material and success. Line entire environmental for. Effect discover various rock.\nMust leader improve official difficult. Final carry camera give.",
+        "bio": "Big effect event public while. Note member before nor.\nMore huge today practice market. Government factor push.\nSize treat way. Training majority message seek shake court act."
+    },
+    "apiKey": "890ae17faeb600c4975809adad9e33d8ae7382ede3736431aa02bee75707c866",
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
