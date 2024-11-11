@@ -1,0 +1,26 @@
+{
+    "name": "Kristina Hayden",
+    "age": 72,
+    "address": {
+        "street": "Patricia Walk",
+        "city": "Rogerstad",
+        "state": "Nebraska",
+        "zip": "50026"
+    },
+    "contact": {
+        "phone": "309.898.0899x537",
+        "servicePhone": "800258264"
+    },
+    "birthday": "1953-29-10",
+    "ip": "30.114.9.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Able great back main treatment large. Least reveal common world bill.\nStaff data candidate interesting none. Effort doctor daughter citizen.",
+        "bio": "If professor pretty smile. Strategy it finally part drop successful fall. Exactly themselves event environmental yard building cultural under."
+    },
+    "apiKey": "2e5e89a00f4243852788b164a75c78d52faf8dae49b8d473a6f4f4c53b34f923",
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
