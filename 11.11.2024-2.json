@@ -1,0 +1,26 @@
+{
+    "name": "Kristin Roberts",
+    "age": 94,
+    "address": {
+        "street": "Turner Mountain",
+        "city": "Prestonstad",
+        "state": "Nebraska",
+        "zip": "05584"
+    },
+    "contact": {
+        "phone": "(953)630-8259",
+        "servicePhone": "800089782"
+    },
+    "birthday": "1931-07-05",
+    "ip": "42.76.148.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Study spring everyone score available. Beautiful garden yard phone. Behind give moment explain receive involve claim.",
+        "bio": "Song report use six. Community wonder everyone side issue my.\nEffect into speech term. Everybody now nature several fall month economy. Tend opportunity total green great billion."
+    },
+    "apiKey": "6b09bc14e336686e7d08099dafb703cf620fde62d6b7c666c4e6552a27ff7cc9",
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
