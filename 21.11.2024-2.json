@@ -1,0 +1,26 @@
+{
+    "name": "Sarah Hawkins",
+    "age": 54,
+    "address": {
+        "street": "Angela Rapids",
+        "city": "New Brent",
+        "state": "North Carolina",
+        "zip": "21494"
+    },
+    "contact": {
+        "phone": "971-993-0152x556",
+        "servicePhone": "800568681"
+    },
+    "birthday": "1971-29-06",
+    "ip": "165.153.60.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic feeling affect need myself recently model. Through degree use the material recent attack somebody.",
+        "bio": "Set answer candidate. Population fast couple test language serious own. Treatment fall computer against."
+    },
+    "apiKey": "de011d64c0afe289a7786dcfe470c35a9b22d03d44c0c68b5377f0200599a0c9",
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
