@@ -1,0 +1,26 @@
+{
+    "name": "Kelly Rodgers",
+    "age": 40,
+    "address": {
+        "street": "Hayes Curve",
+        "city": "Christopherstad",
+        "state": "Illinois",
+        "zip": "25220"
+    },
+    "contact": {
+        "phone": "551.523.0339x5699",
+        "servicePhone": "800408836"
+    },
+    "birthday": "1985-12-04",
+    "ip": "132.204.201.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Last follow spring drop. Suggest to size interview beat use finish.\nReality away opportunity baby hit kind bad. Easy free need wonder. Crime friend prove. Prepare radio type moment someone protect.",
+        "bio": "Black past provide art along as move. Social other present drug.\nReceive become often since west. Work right general mean decide begin customer."
+    },
+    "apiKey": "329ce40df2c6a4d5095b4b1d7e10ccb65d110986f4d15db0b7b2a5a14392f7be",
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
