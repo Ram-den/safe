@@ -1,0 +1,26 @@
+{
+    "name": "Jason Cohen",
+    "age": 106,
+    "address": {
+        "street": "Richardson Circle",
+        "city": "Port Ann",
+        "state": "California",
+        "zip": "11144"
+    },
+    "contact": {
+        "phone": "(692)276-1978x30442",
+        "servicePhone": "800949703"
+    },
+    "birthday": "1919-29-12",
+    "ip": "180.172.85.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair three specific member their would wear level. Whose necessary bill sit risk single deep against.\nInto relationship lawyer wife. First school first box song month watch.",
+        "bio": "Market attack country foreign. Continue history budget painting. Outside treat voice western travel letter."
+    },
+    "apiKey": "18ba89c151e45696938859bd6c3b8b67baee608ea08ec39da34ce549c6d4606f",
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
