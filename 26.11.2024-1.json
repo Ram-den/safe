@@ -1,0 +1,26 @@
+{
+    "name": "Olivia Calhoun",
+    "age": 67,
+    "address": {
+        "street": "Teresa Meadows",
+        "city": "Penashire",
+        "state": "Massachusetts",
+        "zip": "46138"
+    },
+    "contact": {
+        "phone": "001-513-633-5605x957",
+        "servicePhone": "800763163"
+    },
+    "birthday": "1958-10-10",
+    "ip": "79.175.8.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Nor case speak young mouth. Kind country only smile describe smile put. Good open hold strategy.\nForeign receive sure out pull mission. New different radio once they single.",
+        "bio": "Rock few travel soon although benefit everybody. Into professional impact agreement community best. Per service avoid show behind."
+    },
+    "apiKey": "b4fdd95b57d5fc05613fbc91ed33b50571e2afc1bbf361f8f69485c506d39684",
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
