@@ -1,0 +1,26 @@
+{
+    "name": "Miss Anne Simmons",
+    "age": 76,
+    "address": {
+        "street": "Barbara Summit",
+        "city": "Michaelton",
+        "state": "Illinois",
+        "zip": "71589"
+    },
+    "contact": {
+        "phone": "284-736-7679x15054",
+        "servicePhone": "800379722"
+    },
+    "birthday": "1949-21-03",
+    "ip": "209.173.138.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Week could soldier major picture. Resource data direction issue know somebody.\nDecide security another event. Partner animal and risk follow. Policy writer professor deal style.",
+        "bio": "Structure produce responsibility impact consumer mind order. Teach lot direction rest over executive house."
+    },
+    "apiKey": "8366835def025f9331e4925b252a31b3411ff370b20b5116373dd835ac2c3b6d",
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
