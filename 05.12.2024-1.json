@@ -1,0 +1,26 @@
+{
+    "name": "Christina Guerra",
+    "age": 11,
+    "address": {
+        "street": "Williams Squares",
+        "city": "Judithside",
+        "state": "New York",
+        "zip": "20186"
+    },
+    "contact": {
+        "phone": "(549)397-5918x11739",
+        "servicePhone": "800295244"
+    },
+    "birthday": "2014-11-01",
+    "ip": "168.233.64.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Say north little pass PM. Rather social provide may entire.\nDog wall everybody figure coach start history. Believe company free loss write style. Affect fund current wrong else.",
+        "bio": "Animal beautiful itself these contain receive push. Special modern office site can stock. Parent interest seem response agreement teacher. Religious sell always writer tax explain fall."
+    },
+    "apiKey": "032aaa10fbd4594afc1abd3f68d5115842e08c0b7b517a41b81da6ad37ca02ca",
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
