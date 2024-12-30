@@ -1,0 +1,26 @@
+{
+    "name": "Kenneth Rodriguez",
+    "age": 97,
+    "address": {
+        "street": "Francis Branch",
+        "city": "Michelleberg",
+        "state": "Mississippi",
+        "zip": "36777"
+    },
+    "contact": {
+        "phone": "798.435.8207",
+        "servicePhone": "800195610"
+    },
+    "birthday": "1928-26-04",
+    "ip": "58.106.120.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability student bar subject summer bill table as. Significant sound off.\nChoose keep scientist save. Another establish hair style card pass activity per. Mouth treatment lose go.",
+        "bio": "Lot information sport response her. Character safe affect.\nGuy rise opportunity."
+    },
+    "apiKey": "4b8629b0d80916114269ff5ef6e444344662417eba758bf145a2d60cf4940fed",
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
