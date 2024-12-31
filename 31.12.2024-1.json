@@ -1,0 +1,26 @@
+{
+    "name": "Darlene Murphy",
+    "age": 65,
+    "address": {
+        "street": "Ramsey Underpass",
+        "city": "Davidshire",
+        "state": "Iowa",
+        "zip": "15351"
+    },
+    "contact": {
+        "phone": "+1-754-305-1411x928",
+        "servicePhone": "800590506"
+    },
+    "birthday": "1960-23-01",
+    "ip": "33.97.195.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground suggest since peace spring. Film media interesting management card.\nNext account local care start see. Economy be some explain.",
+        "bio": "Yourself husband always current. Option often measure involve whether wear human across.\nPurpose picture anyone piece usually. Rule buy chance spring."
+    },
+    "apiKey": "9a1ded6833204396908bc6f7d806a86e49f2c0db0400e0b68380a955b1d72c9d",
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
